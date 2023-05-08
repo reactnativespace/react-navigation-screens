@@ -1,11 +1,10 @@
-
 ## How to navigate and pass params between pages with React Navigation?
 ![Screenshot](screenshot.png)
 
 ### 📽️ YouTube Tutorial
-Soon
+https://youtu.be/kyQ2wEqymCw
 
-### 📖Read the blog post about video
+### 📖Read blog post about the video
 Soon
 
 ### 🔥This video answers following questions;
@@ -13,7 +12,19 @@ Soon
 - ✅How to navigate and change screens on react native?
 - ✅How to pass params between screens on react native?
 
-  
+### :blue_book: Installation
+Clone the repo to your directory and install the packages through npm using:
+```
+npm install
+```
+
+### :microscope: Run
+Run the project with Metro Bundler
+```
+npx expo start
+```
+
+
 ### 👇 Follow me;
 - https://reactnativespace.com
 - https://github.com/reactnativespace
