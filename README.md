@@ -5,7 +5,7 @@
 https://youtu.be/kyQ2wEqymCw
 
 ### 📖Read blog post about the video
-Soon
+https://reactnativespace.com/tutorials/navigating-and-passing-params-between-screens-in-react-navigation
 
 ### 🔥This video answers following questions;
 - ✅How to install react navigation on react native?
